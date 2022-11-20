@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coshmeo
-- 👀 I’m interested in web app security
-- 🌱 I’m currently learning AWS
+- 👀 I’m an AppSec engineer for Security Innovaiton
+- 🌱 I’m currently learning mobile security
 - 💞️ I’m looking to collaborate on anything hacking related
 - 📫 How to reach me: coshmeo at gmail dot com, or @coshmeo on socials.
 
