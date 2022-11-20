@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coshmeo
-- 👀 I’m an AppSec engineer for Security Innovaiton
+- 👀 I’m an AppSec engineer at Security Innovaiton
 - 🌱 I’m currently learning mobile security
 - 💞️ I’m looking to collaborate on anything hacking related
 - 📫 How to reach me: coshmeo at gmail dot com, or @coshmeo on socials.
